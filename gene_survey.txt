@@ -1,0 +1,10 @@
+Gene name: Homo sapiens myoglobin
+
+NCBI
+- Accession : GCF_000001405.40 (reference)
+
+UniProt
+- ID : P02144
+
+PDB
+- ID : pdb_00003rgk
